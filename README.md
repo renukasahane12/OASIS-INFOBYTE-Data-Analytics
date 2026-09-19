@@ -96,3 +96,9 @@ OIBSIP
 │   └── Task-5-Autocomplete-Autocorrect
 │
 └── README.md
+
+**Internship
+
+Organization: OASIS INFOBYTE
+Domain: Data Analytics
+Repository: OIBSIP**
