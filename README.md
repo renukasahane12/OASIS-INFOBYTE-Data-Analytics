@@ -82,18 +82,51 @@ The internship focused on applying data analytics and machine learning technique
 
 ```text
 OIBSIP
+│
 ├── Level-1
 │   ├── Task-1-EDA-Retail-Sales
+│   │   ├── dataset
+│   │   ├── notebook
+│   │   └── output
+│   │
 │   ├── Task-2-Customer-Segmentation
+│   │   ├── dataset
+│   │   ├── notebook
+│   │   └── output
+│   │
 │   ├── Task-3-Data-Cleaning
+│   │   ├── dataset
+│   │   ├── notebook
+│   │   └── output
+│   │
 │   └── Task-4-Sentiment-Analysis
+│       ├── dataset
+│       ├── notebook
+│       └── output
 │
 ├── Level-2
 │   ├── Task-1-House-Price-Prediction
+│   │   ├── dataset
+│   │   ├── notebook
+│   │   └── output
+│   │
 │   ├── Task-2-Wine-Quality-Prediction
+│   │   ├── dataset
+│   │   ├── notebook
+│   │   └── output
+│   │
 │   ├── Task-3-Fraud-Detection
+│   │   ├── notebook
+│   │   └── output
+│   │
 │   ├── Task-4-Google-Play-Store-Analysis
+│   │   ├── dataset
+│   │   ├── notebook
+│   │   └── output
+│   │
 │   └── Task-5-Autocomplete-Autocorrect
+│       ├── notebook
+│       └── output
 │
 └── README.md
 ```
