@@ -97,8 +97,8 @@ OIBSIP
 │
 └── README.md
 
-**Internship
+## Internship
 
-Organization: OASIS INFOBYTE
-Domain: Data Analytics
-Repository: OIBSIP**
+**Organization:** **OASIS INFOBYTE**  
+**Domain:** **Data Analytics**  
+**Repository:** **OIBSIP**
